@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "PG2.C": "cpp",
+        "PG1.C": "cpp",
+        "PG3.C": "cpp",
+        "PG4.C": "cpp",
+        "PG5.C": "cpp",
+        "PG6.C": "cpp",
+        "PG7.C": "cpp",
+        "PG8.C": "cpp",
+        "PG9.C": "cpp",
+        "PG11.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "PG12.C": "cpp",
+        "PG13.C": "cpp",
+        "PG14.C": "cpp",
+        "PG15.C": "cpp",
+        "PG16.C": "cpp",
+        "PG10.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

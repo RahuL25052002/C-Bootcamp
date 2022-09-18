@@ -1,0 +1,12 @@
+//syntax of while loop
+
+1) Initialization 
+2)conditon
+3)body of while loop
+4)Increment or decrement
+
+int i=1; // intitialisation
+while(i<=10){//condtion
+    printf("%d",i);
+    i++; // increment or decrement 
+}
